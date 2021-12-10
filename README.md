@@ -1,2 +1,3 @@
 # AdventCalendar
-My solutions to the Advent of Code 2021
+
+In this repository I will post my solutions to the Advent of Code 2021.
